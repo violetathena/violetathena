@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 ### I'm Violet Chen
 
-- A programmer with 7 years of experience.
 - 🌱 Currently working in Beijing, China.
-- 💬 Ask me about my projects on [violetchenforwork@gmail.com](mailto:violetchenforwork@gmail.com)
+- 💬 Connect with me on [violetchenforwork@gmail.com](mailto:violetchenforwork@gmail.com)
 - ⭐ Things I work on: 
     - Web development 
-    - UI design
-    - Crossfit
 
 
 
